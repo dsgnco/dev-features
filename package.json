@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dsgnco/test-package/issues"
   },
-  "homepage": "https://github.com/dsgnco/test-package#readme"
+  "homepage": "https://github.com/dsgnco/test-package#readme",
+  "publishConfig": {
+    "@dsgnco:registry": "https://npm.pkg.github.com"
+  }
 }
